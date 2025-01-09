@@ -5,3 +5,4 @@ let greet = ()=>{
 function greet2(){
     return `Hello ${name}`;
 }
+console.log(10);
